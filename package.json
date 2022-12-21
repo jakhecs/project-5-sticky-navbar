@@ -1,0 +1,19 @@
+{
+  "name": "project-5-sticky-navbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss ./css/style.css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakhecs/project-5-sticky-navbar.git"
+  },
+  "author": "cj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakhecs/project-5-sticky-navbar/issues"
+  },
+  "homepage": "https://github.com/jakhecs/project-5-sticky-navbar#readme"
+}
